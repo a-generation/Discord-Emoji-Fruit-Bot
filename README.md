@@ -27,7 +27,7 @@ This bot allows users to send various fruit emojis through Discord slash command
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/emoji-fruit-bot.git
+   git clone https://github.com/a-generation/emoji-fruit-bot.git
    cd emoji-fruit-bot
    ```
 
