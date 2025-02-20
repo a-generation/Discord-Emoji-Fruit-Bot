@@ -1,59 +1,57 @@
-# Emoji Fruit Bot
+# Emoji Fruit Bot  
 
-## Description
+## Описание  
 
-This bot allows users to send various fruit emojis through Discord slash commands. It is built using the `disnake` library and provides commands for sending emojis of different fruits.
+Этот бот позволяет пользователям отправлять различные эмодзи фруктов с помощью слэш-команд в Discord. Он создан с использованием библиотеки `disnake` и предоставляет команды для отправки эмодзи разных фруктов.  
 
-## Features
+## Возможности  
 
-- Send orange emoji 🍊
-- Send tomato emoji 🍅
-- Send apple emoji 🍎
-- Send banana emoji 🍌
-- Send pineapple emoji 🍍
-- Send lemon emoji 🍋
-- Send watermelon emoji 🍉
-- Send grape emoji 🍇
+- Отправка эмодзи апельсина 🍊  
+- Отправка эмодзи томата 🍅  
+- Отправка эмодзи яблока 🍎  
+- Отправка эмодзи банана 🍌  
+- Отправка эмодзи ананаса 🍍  
+- Отправка эмодзи лимона 🍋  
+- Отправка эмодзи арбуза 🍉  
+- Отправка эмодзи винограда 🍇  
 
-## Setup
+## Установка  
 
-### Requirements
+### Требования  
 
-- Python 3.8+
-- `disnake` library
+- Python 3.8+  
+- Библиотека `disnake`  
 
-### Installation
+### Инструкция по установке  
 
-1. Clone the repository:
+1. Клонируйте репозиторий:  
 
    ```bash
    git clone https://github.com/a-generation/emoji-fruit-bot.git
    cd emoji-fruit-bot
-   ```
+   ```  
 
-2. Install the dependencies:
+2. Установите зависимости:  
 
    ```bash
    pip install -r requirements.txt
-   ```
+   ```  
 
-3. Replace `"YOUR_BOT_TOKEN_HERE"` in the code with your actual bot token from the Discord Developer Portal.
+3. Замените `"YOUR_BOT_TOKEN_HERE"` в коде на ваш реальный токен бота из Discord Developer Portal.  
 
-4. Run the bot:
+4. Запустите бота:  
 
    ```bash
    python bot.py
-   ```
+   ```  
 
-## Usage
+## Использование  
 
-- `/orange [count]` - Send orange emoji.
-- `/tomato [count]` - Send tomato emoji.
-- `/apple [count]` - Send apple emoji.
-- `/banana [count]` - Send banana emoji.
-- `/pineapple [count]` - Send pineapple emoji.
-- `/lemon [count]` - Send lemon emoji.
-- `/watermelon [count]` - Send watermelon emoji.
-- `/grape [count]` - Send grape emoji.
-
-Feel free to contribute to the project or suggest new features!
+- `/orange [количество]` – Отправить эмодзи апельсина.  
+- `/tomato [количество]` – Отправить эмодзи томата.  
+- `/apple [количество]` – Отправить эмодзи яблока.  
+- `/banana [количество]` – Отправить эмодзи банана.  
+- `/pineapple [количество]` – Отправить эмодзи ананаса.  
+- `/lemon [количество]` – Отправить эмодзи лимона.  
+- `/watermelon [количество]` – Отправить эмодзи арбуза.  
+- `/grape [количество]` – Отправить эмодзи винограда.  
